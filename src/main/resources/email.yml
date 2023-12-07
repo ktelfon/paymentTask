@@ -1,0 +1,4 @@
+email:
+  from: from@someemail.com
+  subject: Payment notification
+  text: Payment default txt
